@@ -10,6 +10,7 @@ We have developed the right methods for interacting with the Tik Tok mobile API,
 - **Follow / unfollow / like**
 - **Edit personal user info: nickname, description**
 - **Commenting on publications**
+- **Support proxy**
 
 It is also possible to implement additional functionality that you need.
 
