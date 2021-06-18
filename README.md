@@ -17,5 +17,8 @@ It is also possible to implement additional functionality that you need.
 
 You can contact me to discuss the details with me - <https://t.me/mezzaqu>
 
+You can also make donations and when the required amount is collected, we will publish it for free.
+
+
 [Telegram](https://t.me/mezzaqu)
 
