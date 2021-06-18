@@ -8,7 +8,7 @@ We have developed the right methods for interacting with the Tik Tok mobile API,
 - **Login TikTok with username:password, email:password, phone**
 - **Register TikTok accounts with username:password, email:password, phone**
 - **Follow / unfollow / like**
-- **Edit personal user info: nickname, decription**
+- **Edit personal user info: nickname, description**
 - **Commenting on publications**
 
 It is also possible to implement additional functionality that you need.
