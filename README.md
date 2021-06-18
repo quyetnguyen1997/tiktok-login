@@ -4,12 +4,12 @@ We have developed the right methods for interacting with the Tik Tok mobile API,
 
 - **Valid generation of X-Gorgon (0404)** without using Frida and JNI
 - **TTEncryption for Device Register and and sending application logs**
-- **Valid Device Register
+- **Valid Device Register**
 - **Login TikTok with username:password, email:password, phone**
 - **Register TikTok accounts with username:password, email:password, phone**
-- **Follow / unfollow / like **
+- **Follow / unfollow / like**
 - **Edit personal user info: nickname, decription**
-- **Commenting on publications
+- **Commenting on publications**
 
 It is also possible to implement additional functionality that you need.
 
