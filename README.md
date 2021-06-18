@@ -15,5 +15,7 @@ It is also possible to implement additional functionality that you need.
 
 **The price is high**
 
-You can contact me to discuss the details with me - t.me/mezzaqu
+You can contact me to discuss the details with me - <https://t.me/mezzaqu>
+
+[Telegram](https://t.me/mezzaqu)
 
