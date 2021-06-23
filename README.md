@@ -2,7 +2,8 @@
 
 We have developed the right methods for interacting with the Tik Tok mobile API, all requests and methods comply with the Tik Tok security policy, which can open up great opportunities for you.
 
-- **Valid generation of X-Gorgon (0404)** without using Frida and JNI
+
+- **Valid generation of X-Gorgon (0404)** without using Frida/JNI/ADB and etc 
 - **TTEncryption for Device Register and and sending application logs**
 - **Valid Device Register**
 - **Login TikTok with username:password, email:password, phone**
@@ -13,8 +14,6 @@ We have developed the right methods for interacting with the Tik Tok mobile API,
 - **Support proxy**
 
 It is also possible to implement additional functionality that you need.
-
-**The price is high**
 
 You can contact me to discuss the details with me - <https://t.me/mezzaqu>
 
