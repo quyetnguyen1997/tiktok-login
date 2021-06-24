@@ -19,6 +19,7 @@ You can contact me to discuss the details with me - <https://t.me/mezzaqu>
 
 You can also make donations and when the required amount is collected, we will publish it for free.
 
+Discord - mezzaqu#2611
 
 [Telegram](https://t.me/mezzaqu)
 
